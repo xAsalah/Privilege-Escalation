@@ -45,6 +45,7 @@ find / -perm /4000 2>/dev/null
 Look for suspicious one
 <br>
 Open (https://gtfobins.github.io/) and look for the file you have found previously.
+<br>
 Try for shell/su in your shell until you become a root. 
 <h3> # Exploit services running as a Root</h3>
 Check whether web, mail, database servers are running as a root. 
